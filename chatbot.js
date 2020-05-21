@@ -13,6 +13,7 @@ submit.addEventListener("click", response);
  
  
 
-function response() ( 
+function response() 
+( 
 
     weightloss.textContent ="Hello" + userInput.value; 
